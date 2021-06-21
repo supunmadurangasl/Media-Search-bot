@@ -23,7 +23,8 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi, I'm Media Search bot you can get free internet config file using me 🤩 contact my owner @supunma**
+
 
 Here you can search files in inline mode. Just press follwing buttons and start searching.
 """
