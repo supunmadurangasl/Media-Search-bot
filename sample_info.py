@@ -25,8 +25,7 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 START_MSG = """
 **Hi, I'm Media Search bot you can get free internet config file using me 🤩 contact my owner @supunma**
 
-
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+Here you can search files in inline mode. Just press following buttons and start searching ඔයාටත් මේ වගේ බොට් කෙනෙක් හරි වෙනත් බොට් කෙනෙක් හරි හදාගන්න ඔන්නම් අපේ channel එකත් එක්ක එකතු වෙන්න.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
