@@ -30,11 +30,11 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm Media Search bot**
+**Hi, I'm Media Search bot you can get free internet config file using me 🤩 contact my owner @supunma**
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+Here you can search files in inline mode. Just press following buttons and start searching ඔයාටත් මේ වගේ බොට් කෙනෙක් හරි වෙනත් බොට් කෙනෙක් හරි හදාගන්න ඔන්නම් අපේ channel එකත් එක්ක එකතු වෙන්න.
 """
 
 START_MSG = environ.get('START_MSG', default_start_msg)
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = environ.get('INVITE_MSG', 'Please join @.... to use this bot')
+INVITE_MSG = environ.get('INVITE_MSG', 'මචො පොඩි දෙයක් තියෙනවා කියන්න බන් මෙ channel එකට join වෙන්න ඔනේ @.... මේ බොට් පාවිච්චි කරන්න 🇱🇰')
