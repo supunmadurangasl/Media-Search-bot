@@ -29,4 +29,5 @@ Here you can search files in inline mode. Just press following buttons and start
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'Please join @.... to use this bot'
+INVITE_MSG = 'මචො පොඩි දෙයක් තියෙනවා කියන්න බන් මෙ channel එකට join වෙන්න ඔනේ @.... මේ බොට් පාවිච්චි කරන්න 🇱🇰')
+
